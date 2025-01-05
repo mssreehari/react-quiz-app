@@ -3,7 +3,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-    background: linear-gradient(rgb(255, 255, 255),rgb(50, 124, 189));
+    background: black;
   display: flex;
   justify-content: center;
   align-items: center;

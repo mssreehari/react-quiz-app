@@ -1,5 +1,5 @@
 .App {
-    background: transparent;
+    background: orange;
     
     color: rgb(2, 50, 58);
     display: flex;
@@ -9,7 +9,7 @@
     width: 575px;
     height: min-content;
     padding: 30px 20px;
-    box-shadow: 10px 10px 42px 0px rgb(71, 162, 226);
+    box-shadow: none;
     border-radius: 25px;
   }
   
@@ -25,6 +25,6 @@
     width: 100%;
   }
   button:hover{
-    background-color: #c7e6f3;
+    background-color: orange;
      transition: 0.1s; 
   }
